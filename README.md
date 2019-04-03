@@ -9,7 +9,7 @@ This program presents 5 alghoritms:
 
 3. 'Substring' Return number of  A chain repetition to make B a substring A
     Ex.
-    A = "abcd", B = "cdabcdab" => 3 because three repeatings are needed to make "abcdabcdabcd" that contains B                                                          
+    A = "abcd", B = "cdabcdab" => 3 - because 3 repeatings of A are needed to make "abcdabcdabcd" that contains B                                                          
     
 4. 'Solution' Returns indexes of two elements from the board which sum up to given target.
     Ex.
